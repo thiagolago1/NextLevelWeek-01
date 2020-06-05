@@ -92,7 +92,7 @@ npm install
 **run**
 
 ```bash
-cd path/to/project/web
+cd path/to/project/mobile
 
 npm start
 ```
