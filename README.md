@@ -3,6 +3,12 @@
 
 see [Rocketseat](https://rocketseat.com.br/)
 
+<p align="left">
+  <img src=".github/Capaweb.png" width="350" title="capaweb">
+  &nbsp
+  <img src=".github/capamobile.jpeg" width="120" alt="capamobile">
+</p>
+
 ## Main Techs
 
 1. [NodeJS](https://nodejs.org/en/)
