@@ -69,7 +69,7 @@ cd path/to/project/web
 npm install
 ```
 
-**run web**
+**run**
 
 ```bash
 cd path/to/project/web
@@ -89,7 +89,7 @@ cd path/to/project/mobile
 npm install
 ```
 
-**run web**
+**run**
 
 ```bash
 cd path/to/project/web
