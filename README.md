@@ -79,7 +79,7 @@ npm start
 
 ## Mobile Usage
 
-> Mobile was made with expo, so install the app on your phone/emulateror or run in browser.
+> Mobile was made with expo, so install the app on your phone/emulator or run in browser.
 
 **install dependencys**
 
